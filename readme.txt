@@ -16,8 +16,8 @@ https://github.com/skillful2002/test.git
 
 Creating a new branch is quick and simple.
 
-stash
+
 
 after stash
 
-dev-01
+
