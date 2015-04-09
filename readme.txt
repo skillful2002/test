@@ -14,4 +14,4 @@ second add line
 https://github.com/skillful2002/test.git
 
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
